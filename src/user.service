@@ -1,0 +1,12 @@
+[Unit]
+Description=my work service
+After=network.target
+
+[Service]
+ExecStart=~/td_user/script/user.sh
+RestartSec="30s"
+
+[Install]
+WantedBy=multi-user.target
+
+
