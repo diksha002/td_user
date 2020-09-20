@@ -17,11 +17,11 @@ Dessous contient des `lignes de codes`.
   - script : contient le fichier user.sh qui va creer les compte utilisateur
   - src : contient le fichier .service
   
-## Le chemin d'accès vers votre dossier git et autres dossier
+### Le chemin d'accès vers votre dossier git et autres dossier:
 - Veuiller taper la commande `pwd` sur votre terminal pour avoir le chemin d'acces vers votre projet git et modifier les chemins d'acces dans chaque fichier. 
 - Modifier votre chemin d'acces daprès où vous avez cloner votre projet.
   
-## Pour installer
+### Pour installer:
 - Deplacer vous dans le dossier git, et deplacer vous dans le dossier install puis l'executer:
 ```
 - $ cd ~/td_user
